@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/safwanishere/AadiFoundationT2Portfolio/static/css/main.bbbbfa1a.css",
+    "main.js": "/safwanishere/AadiFoundationT2Portfolio/static/js/main.84637d95.js",
+    "static/media/desk.jpg": "/safwanishere/AadiFoundationT2Portfolio/static/media/desk.54c5fe6f2c186dccad6a.jpg",
+    "static/media/serverRoom.jpg": "/safwanishere/AadiFoundationT2Portfolio/static/media/serverRoom.bad49ccdd834f4625995.jpg",
+    "static/media/abstract.jpg": "/safwanishere/AadiFoundationT2Portfolio/static/media/abstract.7f70f77a9c6164b89fec.jpg",
+    "static/media/github.svg": "/safwanishere/AadiFoundationT2Portfolio/static/media/github.b40b1c0378274f892133dea1253e8aa8.svg",
+    "index.html": "/safwanishere/AadiFoundationT2Portfolio/index.html",
+    "static/media/linkedin.svg": "/safwanishere/AadiFoundationT2Portfolio/static/media/linkedin.2298f9259beb960fb95720c8da3eef6a.svg",
+    "static/media/envelope.svg": "/safwanishere/AadiFoundationT2Portfolio/static/media/envelope.66a96e55f40bd110c5b1341f8e398c62.svg",
+    "main.bbbbfa1a.css.map": "/safwanishere/AadiFoundationT2Portfolio/static/css/main.bbbbfa1a.css.map",
+    "main.84637d95.js.map": "/safwanishere/AadiFoundationT2Portfolio/static/js/main.84637d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbbbfa1a.css",
+    "static/js/main.84637d95.js"
+  ]
+}
